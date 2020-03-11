@@ -1,0 +1,4 @@
+#include<stdio.h>
+void main() {
+	printf("hello from c using vs 2019\n");
+}
